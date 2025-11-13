@@ -1,0 +1,4 @@
+# This file triggers Vercel deployment
+# Deployment timestamp: 2025-11-14 02:22 UTC+05:30
+# Latest commit should be: f6dce11
+# Turbo schema: Fixed to use 'pipeline' for v1 compatibility
